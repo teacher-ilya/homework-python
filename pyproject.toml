@@ -7,8 +7,9 @@ authors = ["Ilia Kaziamov <ilya.kazyamov@gmail.com>", 'Ilya Kazyamov <teacher.il
 readme = "README.md"
 packages = [{include = "homework_python"}]
 classifiers = [
-	"Environment :: Console",
-	"Programming Language :: Python"
+	"Programming Language :: Python",
+	"Intended Audience :: Education",
+	"Topic :: Education",
 ]
 
 [tool.poetry.dependencies]
