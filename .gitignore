@@ -1,0 +1,6 @@
+*cache*
+.vim
+.idea
+.venv
+.git
+dist/
