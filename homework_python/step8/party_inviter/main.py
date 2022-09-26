@@ -1,9 +1,12 @@
-# 🚨 Не меняйте этот код! 👇
+# 🚨 Не меняйте код вне зеленой зоны!
 guests = []
 
-def invite_friend(name):
-    print(name, 'invited!')
-# 🚨 Не меняйте этот код! 👆
+def invite_friends(list_):
+	list_.append(f'Всего гостей приглашено: {len(list_)}')
+	print(*list_, sep=' приглашен!\n')
 
-# Напишите ваше решение задачи ниже 👇
+# 🟢 (НАЧАЛО) Напишите ваш код здесь 👇
 
+# 🟢 (КОНЕЦ)
+
+invite_friends(guests)
