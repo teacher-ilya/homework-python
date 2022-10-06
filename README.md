@@ -1,6 +1,29 @@
-Telegram Chat: https://t.me/+uvYPOd4bsNk2MzBi
+# Сборник заданий для изучающих Python
 
-Discord Chat: https://discord.gg/e5QUUhvzvt
+Репо состоит из задач нарастающих по сложности. 
+
+Уроверь сложности именуется шагом, требования описываются в README каждого шага.
+
+## Навигация
+
+1. Переменные и типы данных
+2. Арифметические операции и ввод и вывод через консоль
+3. Задачи повышенной сложности
+4. Операторы сравнения
+5. Условные конструкции
+6. Задачи повышенной сложности
+7. Списки
+8. Методы строк
+9. Библиотека `random`
+
+## Контакты
+Для вопросов и предложений
+
+* Telegram Chat: https://t.me/+uvYPOd4bsNk2MzBi
+
+* Discord Chat: https://discord.gg/e5QUUhvzvt
+
+* Youtube Channel: https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA
 
 
 
