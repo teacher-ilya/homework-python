@@ -21,5 +21,6 @@
 
 ### Подсказки
 
+Схема сюжетных развилок
 
-![img.png](scheme.png)
+![scheme.png](scheme.png)
